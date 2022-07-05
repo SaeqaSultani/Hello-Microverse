@@ -1,5 +1,5 @@
 # Hello-Microverse
-This is my first project in microverse
+Hello-Microverse is the first microverse project and the purpose of this project is to Understand the version control concept, branches, and pull requests. 
 
 # Built With
 - Major languages
